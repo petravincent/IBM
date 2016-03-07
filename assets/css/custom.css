@@ -1,0 +1,300 @@
+/*Colors*/
+.dark-blue{
+color: #004c8e ;
+}
+.orange{
+  color: #e37222 ;  
+    
+}
+.light-blue{
+  color: #0065bd ;  
+}
+
+.light-grey{
+ color: #7f94af ;   
+}
+.green{
+  color: #7bb50c ;  
+}
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  position: relative;
+  min-height: 100%;
+}
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 60px;
+    background-color: #f1f1f1;
+    	background-image: url("../images/siteback.png");
+}
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 60px;
+  background-color: #004c8e;
+  color:#fff;
+}
+
+
+/* Custom page CSS
+-------------------------------------------------- */
+/* Not required for template or sticky footer method. */
+
+body > .container {
+  padding: 60px 15px 0;
+}
+.container .text-white {
+  margin: 20px 0;
+}
+
+.footer > .container {
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+code {
+  font-size: 80%;
+}
+
+
+/* CUSTOMIZE THE CAROUSEL
+-------------------------------------------------- */
+
+/* Carousel base class */
+.carousel {
+/*  height: 500px;*/
+  margin-bottom: 60px;
+}
+/* Since positioning the image, we need to help out the caption */
+.carousel-caption {
+  z-index: 10;
+    top: 20px;
+    text-align: left;
+    text-shadow: none;
+    right: 5%;
+    left: 5%;
+}
+
+.carousel-caption h4{
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+    font-family: HelveticaNeue;
+}
+
+.carousel-control.right, .carousel-control.left{
+    background-image: none;
+}
+
+/* Declare heights because of positioning of img element */
+.carousel .item {
+  height: 700px;
+/*  background-color: #f1f1f1;*/
+}
+.carousel-inner > .item > img {
+/*  position: absolute;*/
+/*
+  top: 0;
+  left: 0;
+*/
+  min-width: 100%;
+/*  height: 500px;*/
+}
+
+.carousel-inner {
+    position: relative;
+    max-width: 1120px;
+    overflow: hidden;
+    margin: auto;
+}
+
+.slide-image {
+    right: 5%;
+    left: 5%;
+    position:absolute;
+    top: 110px;
+}
+
+.slide-image img{
+    width: 100%
+}
+
+.carousel-indicators {
+    bottom: 0px;
+}
+
+
+/*NAVIGATION*/
+body {
+	padding-top:70px;
+}
+.navbar-header {
+  float: none;
+}
+.navbar-toggle {
+  display: block;
+    float: left;
+}
+.navbar-collapse {
+  border-top: 1px solid transparent;
+  box-shadow: inset 0 1px 0 rgba(255,255,255,0.1);
+}
+.navbar-collapse.collapse {
+  display: none!important;
+}
+.navbar-nav {
+  float: none!important;
+padding: 100px;
+
+}
+.navbar-nav>li {
+  float: none;
+}
+.navbar-nav>li>a {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.navbar-collapse.collapse {
+    display: none!important;
+}
+
+.navbar-collapse.collapse.in{
+    display: block!important;
+}
+
+.navbar-default .navbar-toggle {
+  border: none;
+}
+
+.navbar-default .navbar-brand {
+    color: #000;
+}
+
+.subhead-bar{
+    color: #666;
+    font-size: 13px;
+}
+
+.navbar{
+    min-height: 80px;;
+}
+
+.navbar-toggle .icon-bar{
+    display: block;
+    width: 34px;
+    height: 2px;
+    border-radius: 0px;
+}
+
+.navbar-toggle .icon-bar+.icon-bar {
+    margin-top: 8px;
+}
+.navbar-toggle {
+padding: 20px 20px;    
+}
+
+.right-arrow{
+display: block;
+  text-indent: -9999px;
+  width: 50px;
+  height: 50px;
+  background: url(../images/arrow.svg);
+  background-size: 50px 50px;
+    position: absolute;
+top: 50%;
+z-index: 5;
+display: inline-block;
+
+}
+
+.navbar-default{
+    background-color:rgba(248,248,248,0.98);
+}
+
+.carousel-control .right-arrow, .carousel-control .icon-prev {
+    right: 50%;
+    margin-left: -10px;
+}
+
+
+.left-arrow{
+display: block;
+  text-indent: -9999px;
+  width: 50px;
+  height: 50px;
+  background: url(../images/arrow-left.svg);
+  background-size: 50px 50px;
+    position: absolute;
+top: 50%;
+z-index: 5;
+display: inline-block;
+
+}
+
+.carousel-control .left-arrow{
+    left: 50%;
+    margin-left: -10px;
+}
+
+.carousel-indicators .active{
+    background-color: #00adef;
+      height: 13px;
+    width: 13px;
+    border: 2px solid #acddef;
+}
+
+.carousel-indicators li{
+    height: 13px;
+    width: 13px;
+    border: 2px solid #ccc;
+}
+
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
+    color: #555;
+    background-color: #eceff3;
+}
+
+.navbar-nav>li>a {
+
+    font-size: 18px;
+}
+
+.navbar-fixed-bottom .navbar-collapse, .navbar-fixed-top .navbar-collapse {
+    max-height: 100%;
+}
+
+.number-bold{
+
+}
+
+.client-branding{
+  float: right;
+  width: 200px;
+  margin-top: 30px;
+  margin-right: 30px;
+}
+
+.client-branding img{
+width: 100%;
+}
+
+.radio {     z-index: 9999999; }
+.carousel-control {
+    width: 10%;
+}
+.hide {display: none;}
+.show {display: block;}
+
+
+/*MODULE 1 buttons*/
+
+.multi-layered-img { background-image: url('../images/slides/slide_5.svg'); width: 1008px; height: 492px; background-size: cover; position:relative; }
+.transparent-mask { display:block; position: absolute; cursor: pointer; z-index: 99999999;}
+#findandkillem1 {  width: 103px; height: 64px; top: 119px; left: 185px; }
+#findandkillem2 {  width: 75px; height: 50px; top: 119px; left: 317px; }
+#findandkillem3 {  width: 75px; height: 50px; top: 214px; left: 503px;}
+#findandkillem4 {  width: 84px; height: 50px; top: 216px; left: 913px;}
+#findandkillem5 {  width: 107px; height: 76px; top: 402px; left: 783px;}
