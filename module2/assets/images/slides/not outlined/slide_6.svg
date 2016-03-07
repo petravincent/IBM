@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="2048px" height="1000px" viewBox="0 0 2048 1000" enable-background="new 0 0 2048 1000" xml:space="preserve">
+<rect fill="#B9E5FB" width="2048" height="1000"/>
+<rect x="1.5" y="640.118" fill="#116BB4" width="2046.5" height="360.601"/>
+<g>
+	<g>
+		<g>
+			<polygon fill="#FFFFFF" points="1607.963,942.812 1607.963,496.546 1607.963,300.125 1467.219,159.363 505.117,159.363 
+				505.117,942.812 			"/>
+			<g>
+				<polygon fill="#2C5871" points="1467.219,300.125 1607.963,300.125 1467.219,159.363 				"/>
+				<polygon fill="#D1ECFB" points="1607.963,300.125 1467.219,300.125 1607.963,440.863 				"/>
+			</g>
+		</g>
+	</g>
+</g>
+<line fill="none" stroke="#343636" stroke-width="4.9841" stroke-miterlimit="10" x1="50.751" y1="53.718" x2="1997.543" y2="53.718"/>
+<rect x="533.274" y="200.591" fill="none" width="583.137" height="81.373"/>
+<text transform="matrix(1 0 0 1 533.2739 222.0107)"><tspan x="0" y="0" fill="#074164" font-family="'HelveticaNeueLTPro-Bd'" font-size="30">WH_QMS_FRM_0016A</tspan><tspan x="0" y="46" fill="#074164" font-family="'HelveticaNeueLTPro-Bd'" font-size="30">Nonconformance Notification Template</tspan></text>
+<g>
+	<rect x="50.763" y="75.963" fill="none" width="1271.153" height="48.624"/>
+	<text transform="matrix(1 0 0 1 50.7603 108.8066)" fill="#231F20" font-family="'HelveticaNeueLTPro-Md'" font-size="46">Example of a Completed Nonconformance Notification</text>
+</g>
+<rect x="533.274" y="300.125" fill="none" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" width="902.622" height="49.336"/>
+<rect x="544.251" y="365.091" fill="none" width="583.138" height="28.6"/>
+<text transform="matrix(1 0 0 1 544.251 383.6553)"><tspan x="0" y="0" fill="#074164" font-family="'HelveticaNeueLTPro-Bd'" font-size="26">Originator: </tspan><tspan x="139.592" y="0" fill="#333333" font-family="'HelveticaNeueLTPro-Roman'" font-size="24">John Doe</tspan></text>
+<rect x="544.251" y="313.496" fill="none" width="583.138" height="28.6"/>
+<text transform="matrix(1 0 0 1 544.251 332.0596)"><tspan x="0" y="0" fill="#074164" font-family="'HelveticaNeueLTPro-Bd'" font-size="26">Date: </tspan><tspan x="72.722" y="0" fill="#333333" font-family="'HelveticaNeueLTPro-Roman'" font-size="24">02/23/16</tspan></text>
+<rect x="544.251" y="675.181" fill="none" width="168.18" height="93.442"/>
+<text transform="matrix(1 0 0 1 544.251 692.3164)" fill="#333333" font-family="'HelveticaNeueLTPro-Roman'" font-size="24">REQ001</text>
+<rect x="751.729" y="675.181" fill="none" width="168.18" height="93.442"/>
+<text transform="matrix(1 0 0 1 751.7295 692.3164)"><tspan x="0" y="0" fill="#333333" font-family="'HelveticaNeueLTPro-Roman'" font-size="24">Must be most </tspan><tspan x="0" y="28.8" fill="#333333" font-family="'HelveticaNeueLTPro-Roman'" font-size="24">recent version</tspan></text>
+<rect x="957.979" y="675.181" fill="none" width="168.18" height="93.442"/>
+<text transform="matrix(1 0 0 1 957.979 692.3164)" fill="#333333" font-family="'HelveticaNeueLTPro-Roman'" font-size="24">Version 1.0</text>
+<rect x="533.274" y="349.46" fill="none" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" width="902.621" height="49.336"/>
+<rect x="544.251" y="851.535" fill="none" width="583.138" height="28.601"/>
+<text transform="matrix(1 0 0 1 544.251 870.0996)"><tspan x="0" y="0" fill="#074164" font-family="'HelveticaNeueLTPro-Bd'" font-size="26">Date notification received by ORB: </tspan><tspan x="434.299" y="0" fill="#333333" font-family="'HelveticaNeueLTPro-Roman'" font-size="24">02/23/16</tspan></text>
+<rect x="533.274" y="835.905" fill="none" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" width="902.621" height="49.336"/>
+<rect x="544.251" y="438.903" fill="none" width="583.138" height="28.6"/>
+<text transform="matrix(1 0 0 1 544.251 457.4663)"><tspan x="0" y="0" fill="#074164" font-family="'HelveticaNeueLTPro-Bd'" font-size="26">Offering or offering component: </tspan><tspan x="400.029" y="0" fill="#333333" font-family="'HelveticaNeueLTPro-Roman'" font-size="24">Offering X</tspan></text>
+<rect x="533.274" y="426.73" fill="none" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" width="902.622" height="49.336"/>
+<rect x="544.251" y="491.696" fill="none" width="583.138" height="28.601"/>
+<text transform="matrix(1 0 0 1 544.251 510.2607)"><tspan x="0" y="0" fill="#074164" font-family="'HelveticaNeueLTPro-Bd'" font-size="26">Version (if applicable): </tspan><tspan x="280.536" y="0" fill="#333333" font-family="'HelveticaNeueLTPro-Roman'" font-size="24">Version 1.0</tspan></text>
+<rect x="533.274" y="476.066" fill="none" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" width="902.621" height="49.336"/>
+<rect x="544.251" y="541.034" fill="none" width="863.871" height="28.601"/>
+<text transform="matrix(1 0 0 1 544.251 559.5977)"><tspan x="0" y="0" fill="#074164" font-family="'HelveticaNeueLTPro-Bd'" font-size="26">Qty of nonconforming offering (if applicable): </tspan><tspan x="561.669" y="0" fill="#333333" font-family="'HelveticaNeueLTPro-Roman'" font-size="24">Not applicable</tspan></text>
+<rect x="533.274" y="525.403" fill="none" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" width="902.621" height="49.337"/>
+<rect x="533.274" y="610.724" fill="#999999" width="205.763" height="49.337"/>
+<rect x="533.274" y="660.061" fill="none" stroke="#000000" stroke-width="0.4705" stroke-miterlimit="10" width="205.763" height="126.912"/>
+<rect x="739.037" y="610.724" fill="#999999" width="205.763" height="49.337"/>
+<rect x="739.037" y="660.061" fill="none" stroke="#000000" stroke-width="0.4705" stroke-miterlimit="10" width="205.763" height="126.912"/>
+<rect x="944.799" y="610.724" fill="#999999" width="258.974" height="49.337"/>
+<rect x="944.799" y="660.061" fill="none" stroke="#000000" stroke-width="0.5278" stroke-miterlimit="10" width="258.974" height="126.912"/>
+<rect x="544.251" y="625.818" fill="none" width="215.248" height="28.601"/>
+<text transform="matrix(1 0 0 1 544.251 644.3809)" fill="#FFFFFF" font-family="'HelveticaNeueLTPro-Bd'" font-size="26">Reference</text>
+<rect x="747.597" y="625.818" fill="none" width="198.075" height="28.601"/>
+<text transform="matrix(1 0 0 1 747.5967 644.3809)" fill="#FFFFFF" font-family="'HelveticaNeueLTPro-Bd'" font-size="26">Description</text>
+<rect x="1216.467" y="675.181" fill="none" width="168.18" height="93.442"/>
+<text transform="matrix(1 0 0 1 1216.4668 692.3164)" fill="#333333" font-family="'HelveticaNeueLTPro-Roman'" font-size="24">Version 1.1</text>
+<rect x="1203.773" y="610.724" fill="#999999" width="232.368" height="49.337"/>
+<rect x="1203.773" y="660.061" fill="none" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" width="232.368" height="126.912"/>
+<rect x="1212.334" y="625.818" fill="none" width="215.247" height="28.601"/>
+<text transform="matrix(1 0 0 1 1212.334 644.3809)" fill="#FFFFFF" font-family="'HelveticaNeueLTPro-Bd'" font-size="26">Actual outcome</text>
+<rect x="957.979" y="625.818" fill="none" width="239.101" height="28.601"/>
+<text transform="matrix(1 0 0 1 957.9795 644.3809)" fill="#FFFFFF" font-family="'HelveticaNeueLTPro-Bd'" font-size="26">Expected outcome</text>
+</svg>
