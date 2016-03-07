@@ -3,7 +3,7 @@
 Module 2 
 
 Slide 7 (01: Identification)
-Add div links to blue boxes
+Add div links to blue boxes - DONE
 
 
 Module 3 
