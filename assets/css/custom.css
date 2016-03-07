@@ -288,6 +288,21 @@ width: 100%;
 .hide {display: none;}
 .show {display: block;}
 
+.slide-image .radio{
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+input[type="checkbox"], input[type="radio"] {
+    margin: 8px 0px 0px;
+}
+
+.result{
+
+    border-top: 1px solid rgb(102, 102, 102);
+    margin-top: 20px;
+    padding-top: 20px;
+}
 
 /*MODULE 1 buttons*/
 
