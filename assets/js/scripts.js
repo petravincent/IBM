@@ -8,10 +8,14 @@ $(document).ready(function () {
     $("input[name='optionsRadios']").change(function(e){
 	    e.preventDefault();
 	    //console.log($(this).data("swag"));
+
+	    //When clicked, clear everything.
+	    $(".result").html("");
+
+
 	    if ($(this).data("swag") === "hellyes") {
 	    	$(".result").removeClass("hide").addClass("show").append( "<h3>Correct</h3><p>This is the correct answer!</p>" );
 	    }
-        
 	    else {
         $(".result").removeClass("hide").addClass("show").append( "<h3>Incorrect</h3><p>Choose another answer</p>" );  
 //	    	$(".result").removeClass("show").addClass("hide").html("");
@@ -19,5 +23,9 @@ $(document).ready(function () {
         
 	});
     
+    $(".carousel-control").click(function(){
+    	 //When clicked, clear everything of short quiz results.
+	    $(".result").html("");
+    });
     
 });
