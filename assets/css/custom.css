@@ -744,3 +744,31 @@ top: 219px;
 left: 40px;
     background-color: red;
 }
+
+
+/*Slide 11*/
+.multi-layered-img-mod3-11 { background-image: url('../../slides/03/slide_11.svg'); width: 1008px; height: 492px; background-size: cover; position:relative; 
+}
+#mod3-11-a { 
+width: 103px;
+height: 94px;
+top: 97px;
+left: 286px;
+    background-color: red;
+}
+
+#mod3-11-b {  
+width: 133px;
+height: 94px;
+top: 227px;
+left: 271px;
+    background-color: red;
+}
+
+#mod3-11-c {  
+width: 71px;
+height: 100px;
+top: 219px;
+left: 420px;
+    background-color: red;
+}
