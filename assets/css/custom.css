@@ -321,46 +321,107 @@ input[type="checkbox"], input[type="radio"] {
 <<<<<<< HEAD
 /*MODULE 7 buttons*/
 
-/*Slide 3*/
-.multi-layered-img-mod7-1 { background-image: url('../../slides/07/slide_3.svg'); width: 1008px; height: 492px; background-size: cover; position:relative; }
-.transparent-mask { display:block; position: absolute; cursor: pointer; z-index: 99999999;}
+.multi-layered-img-mod7-2 { background-image: url('../../slides/07/slide_3.svg'); width: 1008px; height: 492px; background-size: cover; position:relative; 
+}
+
 #mod7-1-a {  width: 123px;
 height: 44px;
 top: 157px;
 left: 375px;
-    background-color:red; }
+ }
 
 #mod7-1-b {  width: 125px;
 height: 50px;
 top: 239px;
 left: 376px;
-    background-color:red;}
+}
 
 #mod7-1-c {  width: 125px;
 height: 50px;
 top: 324px;
 left: 376px;
-background-color: #F00;
+
 }
 
 
 /*Slide 6*/
-.multi-layered-img-mod7-6 { background-image: url('../../slides/07/slide_6.svg'); width: 1008px; height: 492px; background-size: cover; position:relative; }
-.transparent-mask { display:block; position: absolute; cursor: pointer; z-index: 99999999;}
-#mod7-6-a {  width: 123px;
+.multi-layered-img-mod7-6 { background-image: url('../../slides/07/slide_6.svg'); width: 1008px; height: 492px; background-size: cover; position:relative; 
+}
+#mod7-6-a { 
 width: 273px;
 height: 214px;
 top: 127px;
 left: 175px;
-    background-color:red; 
 }
 
-#mod7-6-b {  width: 125px;
+#mod7-6-b {  
 width: 295px;
 height: 230px;
 top: 119px;
 left: 526px;
-    background-color:red;}
+
+}
+
+/*Module 6 popups*/
+.multi-layered-img-mod6-7 { background-image: url('../../slides/06/slide_8.svg'); width: 1008px; height: 492px; background-size: cover; position:relative; 
+}
+#mod6-8-a {  
+width: 193px;
+height: 284px;
+top: 83px;
+left: 369px;
+    background-color: red;
+}
+
+#mod6-8-b {  
+width: 192px;
+height: 280px;
+top: 84px;
+left: 779px;
+background-color: red;     
+
+}
+
+/*Module 6 popups*/
+.multi-layered-img-mod6-11 { background-image: url('../../slides/06/slide_11.svg'); width: 1008px; height: 492px; background-size: cover; position:relative; 
+}
+#mod6-11-a {  
+width: 403px;
+height: 334px;
+top: 83px;
+left: 569px;
+    background-color: red;
+}
+
+
+/*Module 4 popups*/
+.multi-layered-img-mod4-4 { background-image: url('../../slides/04/slide_4.svg'); width: 1008px; height: 492px; background-size: cover; position:relative; 
+}
+#mod4-4-a {  
+width: 293px;
+height: 164px;
+top: 161px;
+left: 359px;
+    background-color: red;
+}
+
+#mod4-4-b {  
+width: 252px;
+height: 90px;
+top: 144px;
+left: 679px;
+background-color: red;     
+
+}
+
+#mod4-4-c {  
+width: 252px;
+height: 90px;
+top: 244px;
+left: 679px;
+background-color: red;     
+
+}
 
 
 =======

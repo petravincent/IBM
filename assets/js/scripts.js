@@ -17,7 +17,7 @@ $(document).ready(function () {
 	    	$(".result").removeClass("hide").addClass("show").append( "<h3>Correct</h3><p>This is the correct answer!</p>" );
 	    }
 	    else {
-        $(".result").removeClass("hide").addClass("show").append( "<h3>Incorrect</h3><p>Choose another answer</p>" );  
+        $(".result").removeClass("hide").addClass("show").append( "<h3>Incorrect</h3><p>Please try again before proceeding</p>" );  
 //	    	$(".result").removeClass("show").addClass("hide").html("");
 	    }
         
