@@ -433,3 +433,314 @@ background-color: red;
 #module2button4 {  width: 198px; height: 180px; top: 236px; left: 864px; }
 >>>>>>> ca3b321dbbdcde6aefc05fefc9265e61da875038
 
+
+/*TABS for Module 3*/
+.control-tabs{
+    margin-top: 100px;
+    height: 520px;
+        position: relative;
+    z-index: 15;
+    font-size: 16px;
+}
+
+.right-side-content{
+        height: 100%;
+    background-color: #0065bd;
+    color:#ffffff;
+ padding: 20px;
+    height: 520px;
+ font-family: HelveticaNeueLight;
+    font-size: 24px;
+}
+
+.left-side-content{
+    background-color: rgb(0, 173, 239);
+    color:#ffffff;
+    color:#ffffff;
+    padding-right: 0px;
+    padding-top: 20px;
+    padding-right: 20px;
+    height: 520px;;
+}
+
+
+.facet-descriptons h3{
+    color: #222222;
+    border-top: 3px solid #222222;
+    padding-bottom: 20px;
+    color: #ffffff;
+}
+/*!
+ * bootstrap-vertical-tabs - v1.1.0
+ * https://dbtek.github.io/bootstrap-vertical-tabs
+ * 2014-06-06
+ * Copyright (c) 2014 Ä°smail Demirbilek
+ * License: MIT
+ */
+
+.nav-tabs>li>a:hover {
+    border-color: #eee #eee #ddd;
+    color:#0065bf;
+}
+
+
+.nav-tabs > li > a{
+    line-height: 1.2;
+      font-size: 16px;
+}
+
+.tabs-left, .tabs-right {
+  border-bottom: none;
+/*  padding-top: 20px;*/
+}
+.tabs-left {
+/*  border-right: 1px solid #ddd;*/
+    
+}
+.tabs-right {
+  border-left: 1px solid #ddd;
+}
+.tabs-left>li, .tabs-right>li {
+  float: none;
+  margin-bottom: 2px;
+}
+.tabs-left>li {
+  margin-right: -1px;
+}
+
+.tabs-left>li.active>a,
+.tabs-left>li.active>a:hover,
+.tabs-left>li.active>a:focus {
+  border-bottom-color: #ddd;
+  border-right-color: transparent;
+}
+
+
+.tabs-left>li>a {
+  border-radius: 0px;
+  margin-right: 0;
+  display:block;
+    color:#ffffff;
+}
+
+.vertical-text {
+  margin-top:50px;
+  border: none;
+  position: relative;
+}
+.vertical-text>li {
+  height: 20px;
+  width: 120px;
+  margin-bottom: 100px;
+}
+.vertical-text>li>a {
+  border-bottom: 1px solid #ddd;
+  border-right-color: transparent;
+  text-align: center;
+  border-radius: 4px 4px 0px 0px;
+}
+.vertical-text>li.active>a,
+.vertical-text>li.active>a:hover,
+.vertical-text>li.active>a:focus {
+  border-bottom-color: transparent;
+  border-right-color: #ddd;
+  border-left-color: #ddd;
+}
+.vertical-text.tabs-left {
+  left: -50px;
+}
+.vertical-text.tabs-right {
+  right: -50px;
+}
+.vertical-text.tabs-right>li {
+  -webkit-transform: rotate(90deg);
+  -moz-transform: rotate(90deg);
+  -ms-transform: rotate(90deg);
+  -o-transform: rotate(90deg);
+  transform: rotate(90deg);
+}
+.vertical-text.tabs-left>li {
+  -webkit-transform: rotate(-90deg);
+  -moz-transform: rotate(-90deg);
+  -ms-transform: rotate(-90deg);
+  -o-transform: rotate(-90deg);
+  transform: rotate(-90deg);
+}
+
+.facet-descriptons{
+    position: relative;
+    z-index: 1020;
+    
+}
+
+/*Module 3 fade ins*/
+/* make keyframes that tell the start state and the end state of our object */
+
+@-webkit-keyframes fadeIn { from { opacity:0; opacity: 1\9; /* IE9 only */ } to { opacity:1; } }
+@-moz-keyframes fadeIn { from { opacity:0; opacity: 1\9; /* IE9 only */ } to { opacity:1; } }
+@keyframes fadeIn { from { opacity:0; opacity: 1\9; /* IE9 only */ } to { opacity:1; } }
+
+.fade-in {
+	opacity:0;  /* make things invisible upon start */
+	-webkit-animation:fadeIn ease-in 1;  /* call our keyframe named fadeIn, use animattion ease-in and repeat it only 1 time */
+	-moz-animation:fadeIn ease-in 1;
+	animation:fadeIn ease-in 1;
+
+	-webkit-animation-fill-mode:forwards;  /* this makes sure that after animation is done we remain at the last keyframe value (opacity: 1)*/
+	-moz-animation-fill-mode:forwards;
+	animation-fill-mode:forwards;
+
+	-webkit-animation-duration:1s;
+	-moz-animation-duration:1s;
+	animation-duration:1s;
+}
+
+.fade-in.one {
+-webkit-animation-delay: 0.5s;
+-moz-animation-delay: 0.5s;
+animation-delay: 0.5s;
+}
+
+.fade-in.two {
+-webkit-animation-delay: 1.0s;
+-moz-animation-delay:1.0s;
+animation-delay: 1.0s;
+}
+
+.fade-in.three {
+-webkit-animation-delay: 1.5s;
+-moz-animation-delay: 1.5s;
+animation-delay: 1.5s;
+}
+
+
+.fade-in.four {
+-webkit-animation-delay: 2.0s;
+-moz-animation-delay: 2.0s;
+animation-delay: 2.0s;
+}
+
+.fade-in.five {
+-webkit-animation-delay: 2.5s;
+-moz-animation-delay: 2.5s;
+animation-delay: 2.5s;
+}
+
+.fade-in.six {
+-webkit-animation-delay: 3.0s;
+-moz-animation-delay: 3.0s;
+animation-delay: 3.0s;
+}
+
+.fade-in.seven {
+-webkit-animation-delay: 3.5s;
+-moz-animation-delay: 3.5s;
+animation-delay: 3.5s;
+}
+
+.fade-in.eight {
+-webkit-animation-delay: 4.0s;
+-moz-animation-delay: 4.0s;
+animation-delay: 4.0s;
+}
+
+.fade-in.nine {
+-webkit-animation-delay: 4.5s;
+-moz-animation-delay: 4.5s;
+animation-delay: 4.5s;
+}
+
+.fade-in.ten {
+-webkit-animation-delay: 5.0s;
+-moz-animation-delay: 5.0s;
+animation-delay: 5.0s;
+}
+
+.fade-in.eleven {
+-webkit-animation-delay: 5.5s;
+-moz-animation-delay: 5.5s;
+animation-delay: 5.5s;
+}
+
+.fade-in.twelve {
+-webkit-animation-delay: 6.0s;
+-moz-animation-delay: 6.0s;
+animation-delay: 6.0s;
+}
+
+
+
+
+
+/*---make a basic box ---*/
+.box{
+    width: 1008px;
+    height: 492px;
+position: relative;
+color: white;
+float: left;
+background: #27a5d2;
+}
+
+.slides-fade{
+    position: absolute;
+    top: 0px;
+    bottom: 0px;
+
+}
+
+.slides-fade img{
+        width: 1008px;
+    height: 492px;
+}
+
+/*---make a basic box ---*/
+.slide-3-1{
+    background-image: url(../../slides/03/slide_3-0.jpg);
+    background-size: cover;
+        z-index: 3000;
+}
+
+/*---make a basic box ---*/
+.slide-6-1{
+    background-image: url(../../slides/03/slide_6-1.png);
+    background-size: cover;
+        z-index: 3000;
+}
+
+/*---make a basic box ---*/
+.slide-6-2{
+    background-image: url(../../slides/03/slide_6-6.png);
+    background-size: cover;
+        z-index: 3000;
+}
+
+
+/*Module 3 popups*/
+
+/*Slide 3*/
+.multi-layered-img-mod3-7 { background-image: url('../../slides/03/slide_7.svg'); width: 1008px; height: 492px; background-size: cover; position:relative; 
+}
+#mod3-7-a { 
+width: 103px;
+height: 94px;
+top: 97px;
+left: 55px;
+    background-color: red;
+}
+
+#mod3-7-b {  
+width: 103px;
+height: 94px;
+top: 97px;
+left: 165px;
+    background-color: red;
+}
+
+#mod3-7-c {  
+width: 135px;
+height: 100px;
+top: 219px;
+left: 40px;
+    background-color: red;
+}
