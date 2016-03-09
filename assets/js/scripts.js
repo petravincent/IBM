@@ -14,10 +14,10 @@ $(document).ready(function () {
 
 
 	    if ($(this).data("swag") === "hellyes") {
-	    	$(".result").removeClass("hide").addClass("show").append( "<h3>Correct</h3><p>This is the correct answer!</p>" );
+	    	$(".result").removeClass("hide").addClass("show").append( "<div class='quiz-correct'><h4>Correct</h3><p>Please proceed to next slide</p></div>" );
 	    }
 	    else {
-        $(".result").removeClass("hide").addClass("show").append( "<h3>Incorrect</h3><p>Please try again before proceeding</p>" );  
+        $(".result").removeClass("hide").addClass("show").append( "<div class='quiz-incorrect'><h4>Incorrect</h3><p>Please try again before proceeding</p></div>" );  
 //	    	$(".result").removeClass("show").addClass("hide").html("");
 	    }
         
