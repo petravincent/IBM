@@ -277,7 +277,7 @@ display: inline-block;
 .client-branding{
   float: right;
   width: 200px;
-  margin-top: 30px;
+  margin-top: 15px;
   margin-right: 30px;
 }
 
@@ -432,7 +432,7 @@ left: 679px;
 
 /*TABS for Module 3*/
 .control-tabs{
-    margin-top: 100px;
+    margin-top: 0px;
     height: 520px;
         position: relative;
     z-index: 15;
